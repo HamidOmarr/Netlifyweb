@@ -4,7 +4,6 @@ import Button from "@mui/material/Button";
 import Box from "@mui/material/Box";
 import Link from "@mui/material/Link";
 import * as React from "react";
-import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 
 const ForgotPassword: React.FC = () => {
   return (
@@ -12,7 +11,6 @@ const ForgotPassword: React.FC = () => {
       <div className="forgot-wrapper">
         <div id="forgot-login-inputs">
           <div className="forgot-top-part">
-            <ArrowBackIcon className="forgot-arrow"></ArrowBackIcon>
             <h1 className="forgot-h1">Forgot Password</h1>
           </div>
 
