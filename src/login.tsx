@@ -46,12 +46,12 @@ const Login: React.FC = () => {
         <div className="login-images-container">
           <img
             className="login-davinci-logo"
-            src="src/images/logoDavinci.svg.png"
+            src="images/logoDavinci.svg.png"
             alt=""
           />
           <img
             className="login-edutrans-logo"
-            src="src/images/logoEdutrans.png"
+            src="images/logoEdutrans.png"
             alt=""
           />
         </div>
