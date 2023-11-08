@@ -46,12 +46,12 @@ const Login: React.FC = () => {
         <div className="login-images-container">
           <img
             className="login-davinci-logo"
-            src="url(images/logoDavinci.svg.png)"
+            src="src/images/logoDavinci.svg.png"
             alt=""
           />
           <img
             className="login-edutrans-logo"
-            src="url(images/logoEdutrans.png)"
+            src="src/images/logoEdutrans.png"
             alt=""
           />
         </div>
@@ -59,6 +59,5 @@ const Login: React.FC = () => {
     </>
   );
 };
-
 
 export default Login;
